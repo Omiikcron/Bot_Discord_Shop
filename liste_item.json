@@ -1,0 +1,36 @@
+{
+	"NissanGTR": {
+
+		"id": "1",
+		"price": "5",
+		"token": "nissangtrtoken"
+	},
+
+	"DreamTeam": {
+
+		"id": "2",
+		"price": "3000",
+		"token": "dttoken"
+	},
+
+	"Mute": {
+
+		"id": "3",
+		"price": "1000",
+		"token": "mutetoken"
+	},
+
+	"NumberONE": {
+
+		"id": "4",
+		"price": "5000",
+		"token": "numberonetoken"
+	},
+
+	"Spam": {
+
+		"id": "5",
+		"price": "500",
+		"token": "spamtoken"
+	}
+}
