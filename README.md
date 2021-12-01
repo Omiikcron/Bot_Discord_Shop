@@ -1,2 +1,2 @@
-# Bot_Discord_Shop
+# 🤖 Bot Discord : Shop
 Coming soon
